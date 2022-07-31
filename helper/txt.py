@@ -34,14 +34,14 @@ class mr(object):
 
     ABOUT_TXT = """
 ╭━━━━❰<b> ᴀʙᴏᴜᴛ ᴍᴇ </b>❱━➣
-├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 <b>:</b> {}
+├🤖 <b>𝙼𝚈 𝙽𝙰𝙼𝙴</b> <b>:</b> {}
 ├👑 𝙾𝚆𝙽𝙴𝚁 <b>:</b> <a href=https://t.me/ajay_king_x>♚ ᴀᴊᴀʏ ♚</a> 
-├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 <b>:</b> <a href=https://t.me/mkv_bots>𝗠𝗞𝗩 𝗕𝗢𝗧𝗦</a>
-├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 <b>:</b> <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
-├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 <b>:</b> <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
-├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 <b>:</b> <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁 <b>:</b> <a href=https://dashboard.heroku.com>𝙷𝙴𝚁𝙾𝙺𝚄</a>
-├📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂 <b>:</b> v3.6.8 [ 𝙼𝙰𝙹𝙾𝚁 ]              
+├👨‍💻 <b>𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁</b> <b>:</b> <a href=https://t.me/mkv_bots>𝗠𝗞𝗩 𝗕𝗢𝗧𝗦</a>
+├📕 <b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈 </b><b>:</b> <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
+├✏️<b> 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴</b> <b>:</b> <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
+├💾<b> 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 </b><b>:</b> <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
+├🌀 <b>𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁 </b><b>:</b> <a href=https://dashboard.heroku.com>𝙷𝙴𝚁𝙾𝙺𝚄</a>
+├📊 <b>𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂</b> <b>:</b> <b>v3.6.8 [ 𝙼𝙰𝙹𝙾𝚁 ]   </b>           
 ╰───────────────⍟
                                 """
     HELP_TXT = """
@@ -71,8 +71,8 @@ class mr(object):
     DEV_TXT = """
 <b>𝚂𝙿𝙴𝙲𝙸𝙰𝙻 𝚃𝙷𝙰𝙽𝙺𝚂 & 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂</b>
 
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA>𝗟𝗢𝗢𝗦𝗘𝗥𝗭 𝗖𝗨𝗧𝗭 </a>
+» <b>𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 </b>: <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ ❣️</a>
+» <b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈 </b>: <a href=https://t.me/ajay_king_x>♚ᴀᴊᴀʏ♚</a>
 
 • ❣️ <b>𝙾𝚄𝚁 𝙼𝙾𝚂𝚃 𝚂𝙿𝙴𝙲𝙸𝙰𝙻 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 </b><a href=https://themastertheblaster>❣️ ∂εcσ∂εɾ ❣️</a></a>\n\n          🙏🏻 𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 🙏🏻        
 """
