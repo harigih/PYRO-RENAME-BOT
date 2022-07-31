@@ -74,5 +74,5 @@ class mr(object):
 » <b>𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 </b>: <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ ❣️</a>
 » <b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈 </b>: <a href=https://t.me/ajay_king_x>♚ᴀᴊᴀʏ♚</a>
 
-• ❣️ <b>𝙾𝚄𝚁 𝙼𝙾𝚂𝚃 𝚂𝙿𝙴𝙲𝙸𝙰𝙻 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 </b><a href=https://themastertheblaster>❣️ ∂εcσ∂εɾ ❣️</a></a>\n\n          🙏🏻 𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 🙏🏻        
+• ❣️ <b>𝙾𝚄𝚁 𝙼𝙾𝚂𝚃 𝚂𝙿𝙴𝙲𝙸𝙰𝙻 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 </b><a href=https://themastertheblaster>❣️ ∂εcσ∂εɾ ❣️</a></a>\n\n              🙏🏻 𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 🙏🏻        
 """
