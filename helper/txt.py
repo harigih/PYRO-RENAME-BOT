@@ -35,7 +35,7 @@ class mr(object):
     ABOUT_TXT = """
 ╭━━━━❰<b> ᴀʙᴏᴜᴛ ᴍᴇ </b>❱━➣
 ├🤖 <b>𝙼𝚈 𝙽𝙰𝙼𝙴</b> <b>:</b> {}
-├👑 𝙾𝚆𝙽𝙴𝚁 <b>:</b> <a href=https://t.me/ajay_king_x>♚ ᴀᴊᴀʏ ♚</a> 
+├👑 <b>𝙾𝚆𝙽𝙴𝚁</b> <b>:</b> <a href=https://t.me/ajay_king_x>♚ ᴀᴊᴀʏ ♚</a> 
 ├👨‍💻 <b>𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁</b> <b>:</b> <a href=https://t.me/mkv_bots>𝗠𝗞𝗩 𝗕𝗢𝗧𝗦</a>
 ├📕 <b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈 </b><b>:</b> <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️<b> 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴</b> <b>:</b> <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
