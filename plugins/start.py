@@ -78,8 +78,8 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
                 InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')                
                 ],[
-                InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url='https://t.me/Tamil_movie_studio'),
-                InlineKeyboardButton('🍿 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🍿', url='https://t.me/+8LCFCFGUy_JlNDhl')
+                InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url='https://t.me/tamilhb'),
+                InlineKeyboardButton('🍿 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🍿', url='https://t.me/tamilhb')
                 ],[
                 InlineKeyboardButton('🍻 𝙰𝙱𝙾𝚄𝚃 🍻', callback_data='about'),
                 InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ℹ️', callback_data='help')
@@ -105,9 +105,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴 ❣️", url="https://t.me/ajay_king_x")
+               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴 ❣️", url="https://t.me/Hari_OP")
                ],[
-               InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴 🖥️", url="https://t.me/ajay_king_x")
+               InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴 🖥️", url="https://t.me/Hari_OP")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴 🔒", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺 ◀️", callback_data = "start")
@@ -119,9 +119,9 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴 ❣️", url="https://t.me/ajay_king_x")
+               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴 ❣️", url="https://t.me/Hari_OP")
                ],[
-               InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴 🖥️", url="https://t.me/ajay_king_x")
+               InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴 🖥️", url="https://t.me/Hari_OP")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴 🔒", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺 ◀️", callback_data = "start")
